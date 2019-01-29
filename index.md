@@ -1,6 +1,8 @@
-# rockaBe
+---
+layout: default
+---
 
-## Projects
+# Projects
 
 Some of the projects listed here are just pure fun or trying to keep in touch with technology, I do not work with on a daily business. Others are to always find good katas for testing coding skills of others and just to name a few here:
 
